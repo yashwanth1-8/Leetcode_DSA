@@ -29,8 +29,13 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
