@@ -1,11 +1,18 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        
-        for(int i=0;i<s.size();i++){
-            if(s.find(s[i])!=t.find(t[i])){
-                return false;
-            }
+        vector<int> indexS(200, 0);
+        vector<int> indexT(200, 0);
+        int len = s.length();
+        if(len != t.length()) { 
+            return false;
+        }
+        for(int i = 0; i < len; i++) {
+            if(indexS[s[i]] != indexT[t[i]]) {
+                return false; 
+            }   
+            indexS[s[i]] = i + 1;
+            indexT[t[i]] = i + 1;
         }
         return true;
     }
