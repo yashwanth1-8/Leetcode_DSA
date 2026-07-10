@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
