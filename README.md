@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 ## String
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
