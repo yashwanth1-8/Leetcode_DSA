@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -64,4 +65,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
