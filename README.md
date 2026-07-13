@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -74,5 +75,6 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
