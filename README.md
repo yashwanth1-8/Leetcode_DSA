@@ -49,6 +49,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,19 +91,23 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
