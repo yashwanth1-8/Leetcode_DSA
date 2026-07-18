@@ -13,6 +13,7 @@
 | [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -26,11 +27,13 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -111,6 +115,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +126,5 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
