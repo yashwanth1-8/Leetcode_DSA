@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0162-find-peak-element) |
+| [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
