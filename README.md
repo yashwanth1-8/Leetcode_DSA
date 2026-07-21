@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -23,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -150,6 +152,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
