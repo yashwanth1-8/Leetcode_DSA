@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
@@ -157,5 +158,6 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
