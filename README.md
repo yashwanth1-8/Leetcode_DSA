@@ -19,6 +19,7 @@
 | [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -139,6 +140,7 @@
 | [0547-number-of-provinces](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -160,4 +162,8 @@
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
