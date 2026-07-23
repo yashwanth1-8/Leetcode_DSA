@@ -30,6 +30,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -139,6 +142,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -166,4 +171,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0994-rotting-oranges) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
