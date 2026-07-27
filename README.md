@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0860-lemonade-change](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
