@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
