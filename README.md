@@ -27,6 +27,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/yashwanth1-8/Leetcode_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
